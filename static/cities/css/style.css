@@ -1,0 +1,10 @@
+body {
+    background-image: url("../img/poezd.jpg");
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+
+.nav_style {
+	border: 3px solid silver;
+	border-radius: 3%;
+}
